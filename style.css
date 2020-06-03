@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display);
-
+@import url(https://fonts.googleapis.com/css?family=Tenali+Ramakrishna);
 img {
     width: 2000px;
     height: 200px;
@@ -9,3 +9,9 @@ h1 {
     color:chartreuse;
     font-family: 'Playfair Display';
 }
+
+h2 {
+    color:green;
+    font-family: 'Tenali+Ramakrishna';
+}
+    
