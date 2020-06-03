@@ -1,0 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display);
+
+img {
+    width: 2000px;
+    height: 200px;
+}
+
+h1 {
+    color:chartreuse;
+    font-family: 'Playfair Display';
+}
