@@ -8,10 +8,16 @@ img {
 h1 {
     color:chartreuse;
     font-family: 'Playfair Display';
+    text-align: center;
 }
 
 h2 {
     color:green;
     font-family: 'Tenali+Ramakrishna';
+    text-align: center;
+}
+
+a {
+    text-align: center;
 }
     
